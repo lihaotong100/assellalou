@@ -7,10 +7,10 @@
 #### Activities
 
 <a href="https://github.com/assellalou/">
-  <img align="center" height=170 width=450 src="https://github-readme-stats.vercel.app/api?username=assellalou&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true" alt="Assellalou Stats" />
+  <img align="center" height=170 width=450 src="https://github-readme-stats.vercel.app/api?username=assellalou&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true&hide=stars" alt="Assellalou Stats" />
 </a>
 <a href="https://github.com/assellalou/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assellalou&layout=compact&theme=synthwave&hide=stars" alt="Assellalou's most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assellalou&layout=compact&theme=synthwave" alt="Assellalou's most used languages" />
 </a>
 
 #### Wanna say hi ?
