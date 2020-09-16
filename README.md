@@ -1,6 +1,6 @@
 # Hello World 👋🏼, I'm Assellalou 🐱‍💻
 
-## Young Moroccan student that works as a full stack developer by day and a hacker by night.
+## Moroccan student that works as a full stack developer by day and a hacker by night.
 
 ### I live on learning new stuff, Science enthusiast, tempted by astronomy and astrophysics, and Mint tea addict.
 
