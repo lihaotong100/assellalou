@@ -22,4 +22,4 @@
 
 [![Paypal](https://img.shields.io/badge/Buy%20me%20a%20coffee-005EA6?style=flat-square&logo=paypal&logoColor=fff&link=https://www.paypal.me/assellalou/)](https://www.paypal.me/assellalou/)
 
-![views](https://komarev.com/ghpvc/?username=assellalou&label=Profile%20views&color=fe75a9&style=flat)
+[![views](https://komarev.com/ghpvc/?username=assellalou&label=Profile%20views&color=fe75a9&style=flat)](https://github.com/assellalou/)
