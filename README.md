@@ -1,19 +1,19 @@
-# Hello World 👋🏼, I'm Assellalou 🐱‍💻
+## Hello World 👋🏼, I'm Assellalou 🐱‍💻
 
-## Moroccan student that works as a full stack developer by day and a hacker by night.
+###### Moroccan student, a full-stack developer by day, and a hacker by night.
 
-### I live on learning new stuff, Science enthusiast, tempted by astronomy and astrophysics, and Mint tea addict.
+###### I live on learning new stuff, Science enthusiast, tempted by astronomy and astrophysics, and Mint tea addict.
 
 #### Activities
 
 <a href="https://github.com/assellalou/">
-  <img align="center" height=170 width=450 src="https://github-readme-stats.vercel.app/api?username=assellalou&show_icons=true&theme=omni&count_private=true&include_all_commits=true" alt="Assellalou Stats" />
-</a>
-<a href="https://github.com/assellalou/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assellalou&layout=compact&theme=omni&hide=html,css" alt="Assellalou's most used languages" />
 </a>
+<a href="https://github.com/assellalou/">
+  <img align="center" height=170 width=450 src="https://github-readme-stats.vercel.app/api?username=assellalou&show_icons=true&theme=omni&count_private=true&include_all_commits=true" alt="Assellalou Stats" />
+</a>
 
-#### Wanna say hi ?
+#### Wanna say hi?
 
 [![Linkedin](https://img.shields.io/badge/assellalou-0077B5?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/assellalou/)](https://www.linkedin.com/in/assellalou/)
 [![Instagram](https://img.shields.io/badge/@massellalou-A13185?style=flat-square&logo=instagram&logoColor=fff&link=https://www.instagram.com/massellalou/)](https://www.instagram.com/massellalou/)
