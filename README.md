@@ -19,6 +19,7 @@
 [![Instagram](https://img.shields.io/badge/@massellalou-A13185?style=flat-square&logo=instagram&logoColor=fff&link=https://www.instagram.com/massellalou/)](https://www.instagram.com/massellalou/)
 [![Twitter](https://img.shields.io/badge/@massellalou-55ADEE?style=flat-square&logo=twitter&logoColor=fff&link=https://www.twitter.com/massellalou/)](https://www.twitter.com/massellalou/)
 [![Gmail](https://img.shields.io/badge/assellalu@gmail.com-D93025?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:assellalu@gmail.com)](mailto:assellalu@gmail.com)
+[![Discord](https://discord.com/api/guilds/348316929100087306/widget.png?style=shield)](https://discord.gg/6WYYfrEtDz)
 
 [![Paypal](https://img.shields.io/badge/Buy%20me%20a%20coffee-005EA6?style=flat-square&logo=paypal&logoColor=fff&link=https://www.paypal.me/assellalou/)](https://www.paypal.me/assellalou/)
 
