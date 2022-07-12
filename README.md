@@ -21,6 +21,6 @@
 [![Gmail](https://img.shields.io/badge/assellalu@gmail.com-D93025?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:assellalu@gmail.com)](mailto:assellalu@gmail.com)
 [![Discord](https://discord.com/api/guilds/348316929100087306/widget.png?style=shield)](https://discord.gg/6WYYfrEtDz)
 
-[![Paypal](https://img.shields.io/badge/Buy%20me%20a%20coffee-005EA6?style=flat-square&logo=paypal&logoColor=fff&link=https://www.paypal.me/assellalou/)](https://www.paypal.me/assellalou/)
+[![Paypal](https://img.shields.io/badge/Buy%20me%20a%20coffee-005EA6?style=flat-square&logo=paypal&logoColor=fff&link=https://www.paypal.me/lihaotong100/)](https://www.paypal.me/lihaotong100/)
 
 [![views](https://komarev.com/ghpvc/?username=assellalou&label=Profile%20views&color=fe75a9&style=flat)](https://github.com/assellalou/)
